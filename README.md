@@ -72,9 +72,3 @@ To run this project locally, follow the steps below:
 
 ### Screenshot 2
 ![Screenshot 2](samples/image2.png)
-
----
-### Watch the Demo Video
-[Video Link](https://vimeo.com/1035126956/dd2afd37a4?share=copy)
-
----
