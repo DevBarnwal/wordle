@@ -65,7 +65,7 @@ To run this project locally, follow the steps below:
 
 ---
 
-## 📷 **Screenshots & Demo**
+## 📷 **Screenshots
 
 ### Screenshot 1
 ![Screenshot 1](samples/image1.png)
